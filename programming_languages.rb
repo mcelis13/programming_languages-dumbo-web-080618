@@ -34,15 +34,5 @@ def reformat_languages(languages)
       end# end of language_hash
     end # end of style_hash.each
   end #end of languages.each
-
-  #newLangObj being created
-  #newLangObj = {
-  #    language => {
-  #        type => type_value,
-  #        :style => get_style
-  #      }
-  #}
-
-
 newLangObj
 end# end of function
