@@ -9,7 +9,6 @@ def reformat_languages(languages)
 
   languages.each do |style_name, style_hash|
 
-
     style_hash.each do |language_name, language_hash|
       language = language_name
 
